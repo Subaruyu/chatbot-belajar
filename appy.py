@@ -4,7 +4,6 @@ from google import genai
 from google.genai import types
 
 NAMA_APP = "KIRANA"
-EMOJI = "✨"
 LOGO = "logo.jpg"
 MODEL = "gemini-flash-latest"
 
